@@ -32,7 +32,6 @@ export default function CoreConcepts() {
     description={CORE_CONCEPTS[3].description}
     img={CORE_CONCEPTS[3].image}
     /> */}
-
 </ul>
 </section>
     );
